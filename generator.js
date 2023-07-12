@@ -21,7 +21,7 @@ exports.utf8 = function utf(size, fn) {
 
 /**
  * Generate a binary message that we will be send to a connected client.
- *
+ * w2kyz785m93xl
  * @async
  * @param {Number} size The specified in bytes for the message.
  * @param {Function} fn The callback function for the data.
